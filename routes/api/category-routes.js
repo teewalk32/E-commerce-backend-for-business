@@ -44,7 +44,7 @@ router.put('/:id', async (req, res) => {
   // update a category by its `id` value
   try {
     const categoryData = await Category.create(req.body);
-    res.status(200).json(locationData);
+    res.status(200).json(categoryData);
   } catch (err) {
     res.status(400).json(err);
   }
