@@ -3,16 +3,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I was motivated to complete this project because I wanted to become a better backend developer. I built this project so a user could add view and delete different products and categories of stores items. This project will help keep track of products for bussiness.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,20 +15,22 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-For this project you'll need to install DOT-env, node modules, Package.son, Sequelize, and Express.
+For this project you'll need to install DOT-env, node modules, Package.son, Insomnia, Sequelize, and Express.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Click the drop down beside Get and you'll be able to choose GET, POST, DELETE, or PUT. Enter the correct URL that you would lick to view. Click the send button and it will return your request.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![insonmia_picture.png](assets/insonmia.png)
 
 ## Credits
 
-
+N/A
 
 ## License
 
 MIT License
+
+## Video
+
+https://drive.google.com/file/d/1xS_BLJ_XlUuiP5wv49AG6t9Dy_Y3hZLJ/view
